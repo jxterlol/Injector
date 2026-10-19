@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "natrium\\x64\\Release\\update.obj",
+            "outputs": [
+                "natrium\\x64\\Release\\update.hpp.obj.dt.module.json",
+                "natrium\\x64\\Release\\update.hpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

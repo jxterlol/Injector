@@ -1,0 +1,525 @@
+﻿  entry.cpp
+  actor.cpp
+  graphics.cpp
+  ui.cpp
+  ui_settings.cpp
+  Communication.cpp
+  env.cpp
+  hooks.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/hooks/hooks.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'entry.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/actor/actor.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/env.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Utilitys/Communication/Communication.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Renderer/graphics.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Renderer/ui/ui.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Utilitys\Communication\Communication.cpp(165,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  yielding.cpp
+  execution.cpp
+  task_scheduler.cpp
+  bit.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/yielding/yielding.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/execution/execution.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/task_scheduler/task_scheduler.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/bit/bit.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  cache.cpp
+  crypt.cpp
+  closures.cpp
+  debug.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/cache/cache.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  drawing.cpp
+  drawingimmediate.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/crypt/crypt.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  luastateproxy.cpp
+  filedialog.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/closures/closures.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/debug/debug.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/drawing/drawing.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/drawingimmediate/drawingimmediate.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/luastateproxy/luastateproxy.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/filedialog/filedialog.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  filesystem.cpp
+  http.cpp
+  input.cpp
+  instance.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/filesystem/filesystem.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  metatable.cpp
+  miscellaneous.cpp
+  oth.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/http/http.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/input/input.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  raknet.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/instance/instance.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/metatable/metatable.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/miscellaneous/miscellaneous.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/oth/oth.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/raknet/raknet.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  reflection.cpp
+  regex.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/reflection/reflection.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  script.cpp
+  signals.cpp
+  websocket.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/regex/regex.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xutility(5094,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'RBX/environment/libs/http/http.cpp')
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xutility(5094,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\RBX\environment\libs\http\http.cpp(27,25):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\RBX\environment\libs\http\http.cpp(27,25):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'module::core::environment::c_http::get_hwid'
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(862,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\xstring(1018,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/script/script.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/signals/signals.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/websocket/websocket.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  rconsole.cpp
+  IXBench.cpp
+  IXCancellationRequest.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'RBX/environment/libs/rconsole/rconsole.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  IXConnectionState.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\RBX\environment\libs\signals\signals.cpp(841,35): warning C4244: 'argument': conversion from 'const __int64' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\RBX\environment\libs\signals\signals.cpp(843,32): warning C4244: 'argument': conversion from 'const __int64' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\RBX\environment\libs\signals\signals.cpp(1012,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\RBX\environment\libs\signals\signals.cpp(1016,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\RBX\environment\libs\signals\signals.cpp(2742,40): warning C4101: 'L': unreferenced local variable
+  IXDNSLookup.cpp
+  IXExponentialBackoff.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXExponentialBackoff.cpp(24,48): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+  IXGetFreePort.cpp
+  IXGzipCodec.cpp
+  IXHttp.cpp
+  IXHttpClient.cpp
+  IXHttpServer.cpp
+  IXNetSystem.cpp
+  IXSelectInterrupt.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXGetFreePort.cpp(54,33): warning C4244: 'argument': conversion from 'ix::socket_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXGetFreePort.cpp(62,33): warning C4244: 'argument': conversion from 'ix::socket_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXGetFreePort.cpp(67,29): warning C4244: 'argument': conversion from 'ix::socket_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXNetSystem.cpp(156,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXNetSystem.cpp(246,36): warning C4244: 'argument': conversion from 'ix::socket_t' to 'int', possible loss of data
+  IXSelectInterruptEvent.cpp
+  IXSelectInterruptFactory.cpp
+  IXSelectInterruptPipe.cpp
+  IXSetThreadName.cpp
+  IXSocket.cpp
+  IXSocketConnect.cpp
+  IXSocketFactory.cpp
+  IXSocketSchannel.cpp
+  IXSocketServer.cpp
+  IXSocketTLSOptions.cpp
+  IXStrCaseCompare.cpp
+  IXUdpSocket.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocket.cpp(250,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocket.cpp(265,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocket.cpp(328,31): warning C4244: '+=': conversion from 'ssize_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocket.cpp(329,28): warning C4244: '-=': conversion from 'ssize_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocketConnect.cpp(48,34): warning C4244: 'argument': conversion from 'ix::socket_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocketConnect.cpp(50,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocketConnect.cpp(55,33): warning C4244: 'argument': conversion from 'ix::socket_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocketConnect.cpp(63,37): warning C4244: 'argument': conversion from 'ix::socket_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocketConnect.cpp(71,78): warning C4244: 'argument': conversion from 'ix::socket_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocketConnect.cpp(79,37): warning C4244: 'argument': conversion from 'ix::socket_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocketConnect.cpp(89,37): warning C4244: 'argument': conversion from 'ix::socket_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocketConnect.cpp(85,24): warning C4244: 'return': conversion from 'ix::socket_t' to 'int', possible loss of data
+  IXUrlParser.cpp
+  IXUserAgent.cpp
+  IXUuid.cpp
+  IXWebSocket.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocketServer.cpp(97,33): warning C4244: 'argument': conversion from 'ix::socket_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocketServer.cpp(115,37): warning C4244: 'argument': conversion from 'ix::socket_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocketServer.cpp(127,37): warning C4244: 'argument': conversion from 'ix::socket_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocketServer.cpp(145,37): warning C4244: 'argument': conversion from 'ix::socket_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocketServer.cpp(157,37): warning C4244: 'argument': conversion from 'ix::socket_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocketServer.cpp(171,33): warning C4244: 'argument': conversion from 'ix::socket_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocketServer.cpp(234,29): warning C4244: 'argument': conversion from 'ix::socket_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocketServer.cpp(275,34): warning C4244: 'argument': conversion from 'ix::socket_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocketServer.cpp(295,54): warning C4244: 'argument': conversion from 'ix::socket_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXSocketServer.cpp(317,35): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+  IXWebSocketCloseConstants.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXUdpSocket.cpp(70,25): warning C4244: 'argument': conversion from 'SOCKET' to 'const _Ty', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXUdpSocket.cpp(70,25): warning C4244:         with
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXUdpSocket.cpp(70,25): warning C4244:         [
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXUdpSocket.cpp(70,25): warning C4244:             _Ty=int
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXUdpSocket.cpp(70,25): warning C4244:         ]
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXUdpSocket.cpp(113,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\ixwebsocket\IXUdpSocket.cpp(124,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  IXWebSocketHandshake.cpp
+  IXWebSocketHttpHeaders.cpp
+  IXWebSocketPerMessageDeflate.cpp
+  IXWebSocketPerMessageDeflateCodec.cpp
+  IXWebSocketPerMessageDeflateOptions.cpp
+  IXWebSocketProxyServer.cpp
+  IXWebSocketServer.cpp
+  IXWebSocketTransport.cpp
+  TextEditor.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Allocator.cpp
+  Ast.cpp
+  Confusables.cpp
+  Cst.cpp
+  Lexer.cpp
+  Location.cpp
+  Parser.cpp
+  PrettyPrinter.cpp
+  BytecodeBuilder.cpp
+  BytecodeGraph.cpp
+  Sccp.cpp
+  BytecodeWire.cpp
+  StringUtils.cpp
+  TimeTrace.cpp
+  BuiltinFolding.cpp
+  Builtins.cpp
+  Compiler.cpp
+  ConstantFolding.cpp
+  CostModel.cpp
+  lcode.cpp
+  TableShape.cpp
+  Types.cpp
+  ValueTracking.cpp
+  lapi.cpp
+  laux.cpp
+  lbaselib.cpp
+  lbitlib.cpp
+  lbuffer.cpp
+  lbuflib.cpp
+  lbuiltins.cpp
+  lclass.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/lapi.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/laux.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  lclasslib.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/lbaselib.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  lcorolib.cpp
+  ldblib.cpp
+  ldebug.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/lbuffer.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\lbuffer.cpp(14,17): warning C4002: too many arguments for function-like macro invocation 'luaM_newgco'
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/lbuiltins.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  ldo.cpp
+  lfunc.cpp
+  lgc.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/lclass.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  lgcdebug.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/lclasslib.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/lcorolib.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  linit.cpp
+  lintlib.cpp
+  lmathlib.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/ldo.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/ldebug.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  lmem.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/lgc.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  lnumprint.cpp
+  lobject.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/lfunc.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\lfunc.cpp(238,5): warning C4018: '<': signed/unsigned mismatch
+  loslib.cpp
+  lperf.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/lgcdebug.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  lstate.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/linit.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  lstring.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/lmathlib.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  lstrlib.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/lmem.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  ltable.cpp
+  ltablib.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/lobject.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  ltm.cpp
+  ludata.cpp
+  lutf8lib.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/lstate.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  lveclib.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/lstring.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\lstring.cpp(79,16): warning C4305: '=': truncation from 'unsigned int' to 'uint16_t'
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\lstring.cpp(79,16): warning C4309: '=': truncation of constant value
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/lstrlib.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  lvector.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/ltable.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  lvmexecute.cpp
+  lvmload.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/ltablib.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  lvmutils.cpp
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/ludata.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/ltm.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/lvmexecute.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/lvector.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/lvmload.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\lvmload.cpp(759,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\src\ludata.h(14,9): warning C4005: 'UTAG_INTERNAL_LIMIT': macro redefinition
+  (compiling source file 'Dependencies/Luau2/VM/src/lvmutils.cpp')
+      C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\Dependencies\Luau2\VM\include\luaconf.h(106,9):
+      see previous definition of 'UTAG_INTERNAL_LIMIT'
+  
+  Generating code
+  Finished generating code
+  Module.vcxproj -> C:\Users\Toms\Desktop\Rblx playground\MainProject\better_lunar_module\LunarModule\ok\module\build\Lunar-Module.dll

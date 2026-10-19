@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Dependencies">
+      <UniqueIdentifier>{BDD424E1-5D3F-48C0-BD22-C74D87224190}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\cpp-httplib">
+      <UniqueIdentifier>{B8EA91A2-4EA2-4321-9C04-52DF4E7DD291}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\cpr">
+      <UniqueIdentifier>{E044D6B8-4409-4D35-916A-04997F1D77C1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\cpr\include">
+      <UniqueIdentifier>{93013628-7CBE-4508-8DDB-71FC3117C128}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\cpr\include\cpr">
+      <UniqueIdentifier>{9D433F57-A9BC-49EB-ACCE-2920A2C15488}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\cpr\src">
+      <UniqueIdentifier>{06CD3496-162D-41E2-B6BF-0C0FC2B27B2D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\curl">
+      <UniqueIdentifier>{665859EA-D893-42B8-9907-21BEAA6FA375}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\curl\include">
+      <UniqueIdentifier>{EC7F3A67-EFB6-4493-88F7-19ED2D201416}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\curl\include\curl">
+      <UniqueIdentifier>{CA1748F5-36E2-4470-9AF0-8D834419CD61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\imgui">
+      <UniqueIdentifier>{A1D665C6-D9C7-4A6C-AE67-428100CBC59F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\imgui\addons">
+      <UniqueIdentifier>{A12DDEDD-176D-446B-A0E7-E41BFF9E2CDB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\imgui\backends">
+      <UniqueIdentifier>{152C7734-0BB7-4552-B1BC-B7A358D62DFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\ixwebsocket">
+      <UniqueIdentifier>{31B4CFE3-CC99-4174-AEBB-3F491F5F54E4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\Luau2">
+      <UniqueIdentifier>{AD6AAA8E-7D93-47A8-9A83-2D5E7F185631}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\Luau2\**">
+      <UniqueIdentifier>{94EA5DF8-74D2-4657-BA25-4AA15081D942}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\Luau2\Ast">
+      <UniqueIdentifier>{AA1E88C3-3847-47FB-8DEB-7A0DADEE65F5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\Luau2\Ast\src">
+      <UniqueIdentifier>{2DC127D4-8534-470C-98D5-4FF2C04BB0F7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\Luau2\Bytecode">
+      <UniqueIdentifier>{26E425FD-0069-4B29-B9FA-5FDB30F0DBA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\Luau2\Bytecode\src">
+      <UniqueIdentifier>{9403F421-5A0C-4E38-90A2-EE5983D3F4B0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\Luau2\Common">
+      <UniqueIdentifier>{B7774D24-E0D0-4D67-B835-9BFC4173D6C9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\Luau2\Common\src">
+      <UniqueIdentifier>{87351C8E-CFFF-4484-964D-36A501F8048E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\Luau2\Compiler">
+      <UniqueIdentifier>{AF2D2596-5DDD-4294-A277-BC3D30CE4A9F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\Luau2\Compiler\src">
+      <UniqueIdentifier>{61035F43-607B-48B3-9BFF-EEECCF701471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\Luau2\VM">
+      <UniqueIdentifier>{52745EF0-667F-44DE-9B38-293F02E5250F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\Luau2\VM\src">
+      <UniqueIdentifier>{0D998B27-D5E7-447A-90A5-9D7B17F3CDB4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\mbedtls">
+      <UniqueIdentifier>{D2666F98-ED1D-4AC3-BD3B-2FE25976C00F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\mbedtls\include">
+      <UniqueIdentifier>{86C19D03-210C-4986-B76C-0F1D0A9AD545}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\mbedtls\include\mbedtls">
+      <UniqueIdentifier>{80CB0D45-2147-49A1-A555-E72B0C8D721D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\nlohmann">
+      <UniqueIdentifier>{C2C48A7C-5D89-4DF1-B563-D8EE810232C9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\Zstd">
+      <UniqueIdentifier>{6BE665B4-31A3-458C-A488-59030E2FDCCA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\Zstd\include">
+      <UniqueIdentifier>{1A5386C1-65B9-4D81-A4ED-6D179FAA7C59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dependencies\Zstd\include\zstd">
+      <UniqueIdentifier>{0FC10F2E-6002-482E-A2EF-94B51F00669E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX">
+      <UniqueIdentifier>{18EC9D16-6EA9-4ABF-A30D-7B58C9233879}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment">
+      <UniqueIdentifier>{658A33DC-BCA8-4239-9A68-CDC9D178C77E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\Helper">
+      <UniqueIdentifier>{2C0737B0-5E6C-4C59-A2D8-48BB6D2738BA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\hooks">
+      <UniqueIdentifier>{0C76248E-BFE7-465D-886E-3AC8F13BBEFA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs">
+      <UniqueIdentifier>{85FEF486-320F-4A77-83D4-3D66F1314E3B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\actor">
+      <UniqueIdentifier>{F6EA5373-8D12-42C9-B48B-4D6319D5839A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\bit">
+      <UniqueIdentifier>{F90EA09C-D4D4-4983-AD29-F7C91AB42000}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\cache">
+      <UniqueIdentifier>{9BB2E04B-BEEF-4174-9C17-04AC28D07FB0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\closures">
+      <UniqueIdentifier>{CC2C6F82-9F97-4686-851D-EFC99BF6C360}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\crypt">
+      <UniqueIdentifier>{07A82716-F744-4D1A-9546-C1CE23ADC109}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\debug">
+      <UniqueIdentifier>{7892483D-CB6F-4BD9-8561-6EC5DC5C05F4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\drawing">
+      <UniqueIdentifier>{BD85DD63-A795-4F90-82B4-4951F2DBD749}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\drawingimmediate">
+      <UniqueIdentifier>{A72A76B8-F618-47F3-9085-2EAF952F13EE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\filedialog">
+      <UniqueIdentifier>{2DB16D57-FA23-4723-874C-ED23CA2DF4C3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\filesystem">
+      <UniqueIdentifier>{A7C96EEA-5D64-4878-A667-4D1D308D519C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\http">
+      <UniqueIdentifier>{20FF2844-A72E-4E97-A47C-EE8DF7172FAF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\input">
+      <UniqueIdentifier>{4BEBAEDF-082D-45E8-B816-FABF31BAE783}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\instance">
+      <UniqueIdentifier>{EB21BEFE-7DDF-4F75-877A-277B01248C85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\luastateproxy">
+      <UniqueIdentifier>{F3E5B995-D99C-428E-9BF5-24DF8F2F3DF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\metatable">
+      <UniqueIdentifier>{632E1952-A983-4383-BA9B-1393770A59E4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\miscellaneous">
+      <UniqueIdentifier>{530C8A9D-3FAC-4743-A358-996D53D4D2D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\oth">
+      <UniqueIdentifier>{44BDF6DC-FFEA-4438-9A22-0E51027B2075}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\raknet">
+      <UniqueIdentifier>{74D58FE7-EB6A-4CA4-8073-F5F7B63FBC21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\rconsole">
+      <UniqueIdentifier>{D871FFFF-1B35-4BE7-82DE-773481970439}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\reflection">
+      <UniqueIdentifier>{B3B21409-0F81-4DDC-9453-04ADC1ADDA0B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\regex">
+      <UniqueIdentifier>{276FD737-164E-4498-AFF5-DC0C7E373C42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\script">
+      <UniqueIdentifier>{3CCC81EA-CC29-4E55-A117-53741CB40592}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\signals">
+      <UniqueIdentifier>{A1A5FA05-F698-4952-AC96-071ACA0796EA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\libs\websocket">
+      <UniqueIdentifier>{D0C7AE91-BFCA-4033-AF4D-CF456064B91F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\environment\yielding">
+      <UniqueIdentifier>{E3C545D2-29D7-4C8D-8E9B-D15B9B1F7BAD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\execution">
+      <UniqueIdentifier>{1F6395AE-0965-4358-B348-0E51DE6D2DF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\security">
+      <UniqueIdentifier>{33A55B68-C137-4802-AE17-F50CC152E731}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RBX\task_scheduler">
+      <UniqueIdentifier>{1F8F7D25-6DCD-4008-A9A5-013755628DF9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Renderer">
+      <UniqueIdentifier>{AC48FA43-BBA2-4D59-9A17-19EED8C25431}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Renderer\ui">
+      <UniqueIdentifier>{F0B42D6A-28EE-461C-AE53-209B25A36814}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utilitys">
+      <UniqueIdentifier>{81A806DF-632A-48C6-B617-A9B5072B5AF5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utilitys\Communication">
+      <UniqueIdentifier>{3D664FD3-094C-4D93-89CD-F2FE9598A097}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="entry.cpp" />
+    <ClCompile Include="RBX\environment\libs\actor\actor.cpp">
+      <Filter>RBX\environment\libs\actor</Filter>
+    </ClCompile>
+    <ClCompile Include="Utilitys\Communication\Communication.cpp">
+      <Filter>Utilitys\Communication</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\env.cpp">
+      <Filter>RBX\environment</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\hooks\hooks.cpp">
+      <Filter>RBX\environment\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\yielding\yielding.cpp">
+      <Filter>RBX\environment\yielding</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\execution\execution.cpp">
+      <Filter>RBX\execution</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\task_scheduler\task_scheduler.cpp">
+      <Filter>RBX\task_scheduler</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\bit\bit.cpp">
+      <Filter>RBX\environment\libs\bit</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\cache\cache.cpp">
+      <Filter>RBX\environment\libs\cache</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\crypt\crypt.cpp">
+      <Filter>RBX\environment\libs\crypt</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\closures\closures.cpp">
+      <Filter>RBX\environment\libs\closures</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\debug\debug.cpp">
+      <Filter>RBX\environment\libs\debug</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\drawing\drawing.cpp">
+      <Filter>RBX\environment\libs\drawing</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\drawingimmediate\drawingimmediate.cpp">
+      <Filter>RBX\environment\libs\drawingimmediate</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\luastateproxy\luastateproxy.cpp">
+      <Filter>RBX\environment\libs\luastateproxy</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\filedialog\filedialog.cpp">
+      <Filter>RBX\environment\libs\filedialog</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\filesystem\filesystem.cpp">
+      <Filter>RBX\environment\libs\filesystem</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\http\http.cpp">
+      <Filter>RBX\environment\libs\http</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\input\input.cpp">
+      <Filter>RBX\environment\libs\input</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\instance\instance.cpp">
+      <Filter>RBX\environment\libs\instance</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\metatable\metatable.cpp">
+      <Filter>RBX\environment\libs\metatable</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\miscellaneous\miscellaneous.cpp">
+      <Filter>RBX\environment\libs\miscellaneous</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\oth\oth.cpp">
+      <Filter>RBX\environment\libs\oth</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\raknet\raknet.cpp">
+      <Filter>RBX\environment\libs\raknet</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\reflection\reflection.cpp">
+      <Filter>RBX\environment\libs\reflection</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\regex\regex.cpp">
+      <Filter>RBX\environment\libs\regex</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\script\script.cpp">
+      <Filter>RBX\environment\libs\script</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\signals\signals.cpp">
+      <Filter>RBX\environment\libs\signals</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\websocket\websocket.cpp">
+      <Filter>RBX\environment\libs\websocket</Filter>
+    </ClCompile>
+    <ClCompile Include="RBX\environment\libs\rconsole\rconsole.cpp">
+      <Filter>RBX\environment\libs\rconsole</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\cpr\src\*.cpp">
+      <Filter>Dependencies\cpr\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\ixwebsocket\*.cpp">
+      <Filter>Dependencies\ixwebsocket</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\imgui\addons\TextEditor.cpp">
+      <Filter>Dependencies\imgui\addons</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\imgui\backends\imgui_impl_dx11.cpp">
+      <Filter>Dependencies\imgui\backends</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\imgui\backends\imgui_impl_win32.cpp">
+      <Filter>Dependencies\imgui\backends</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\imgui\imgui.cpp">
+      <Filter>Dependencies\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\imgui\imgui_draw.cpp">
+      <Filter>Dependencies\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\imgui\imgui_tables.cpp">
+      <Filter>Dependencies\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\imgui\imgui_widgets.cpp">
+      <Filter>Dependencies\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\Luau2\Ast\src\*.cpp">
+      <Filter>Dependencies\Luau2\Ast\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\Luau2\Bytecode\src\*.cpp">
+      <Filter>Dependencies\Luau2\Bytecode\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\Luau2\Common\src\*.cpp">
+      <Filter>Dependencies\Luau2\Common\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\Luau2\Compiler\src\*.cpp">
+      <Filter>Dependencies\Luau2\Compiler\src</Filter>
+    </ClCompile>
+    <ClCompile Include="Dependencies\Luau2\VM\src\*.cpp">
+      <Filter>Dependencies\Luau2\VM\src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CrashHandler.hpp" />
+    <ClInclude Include="Dependencies\cpp-httplib\httplib.h">
+      <Filter>Dependencies\cpp-httplib</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\aes.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\aria.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\asn1.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\asn1write.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\base64.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\bignum.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\block_cipher.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\build_info.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\camellia.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\ccm.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\chacha20.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\chachapoly.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\check_config.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\cipher.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\cmac.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\compat-2.x.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\config_adjust_legacy_crypto.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\config_adjust_legacy_from_psa.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\config_adjust_psa_from_legacy.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\config_adjust_psa_superset_legacy.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\config_adjust_ssl.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\config_adjust_x509.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\config_psa.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\constant_time.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\ctr_drbg.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\debug.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\des.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\dhm.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\ecdh.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\ecdsa.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\ecjpake.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\ecp.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\entropy.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\error.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\gcm.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\hkdf.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\hmac_drbg.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\lms.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\mbedtls_config.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\md.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\md5.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\memory_buffer_alloc.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\net_sockets.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\nist_kw.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\oid.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\pem.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\pk.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\pkcs12.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\pkcs5.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\pkcs7.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\platform.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\platform_time.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\platform_util.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\poly1305.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\private_access.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\psa_util.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\ripemd160.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\rsa.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\sha1.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\sha256.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\sha3.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\sha512.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\ssl.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\ssl_cache.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\ssl_ciphersuites.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\ssl_cookie.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\ssl_ticket.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\threading.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\timing.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\version.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\x509.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\x509_crl.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\x509_crt.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\mbedtls\include\mbedtls\x509_csr.h">
+      <Filter>Dependencies\mbedtls\include\mbedtls</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\actor\actor.hpp">
+      <Filter>RBX\environment\libs\actor</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\closures\closures.hpp">
+      <Filter>RBX\environment\libs\closures</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\crypt\Sha3.hpp">
+      <Filter>RBX\environment\libs\crypt</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\rconsole\rconsole.hpp">
+      <Filter>RBX\environment\libs\rconsole</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\security\integrity.hpp">
+      <Filter>RBX\security</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\security\lcgmixing.hpp">
+      <Filter>RBX\security</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilitys\Utils.hpp">
+      <Filter>Utilitys</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilitys\TPHandler.hpp">
+      <Filter>Utilitys</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilitys\Globals.hpp">
+      <Filter>Utilitys</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilitys\Communication\Communication.hpp">
+      <Filter>Utilitys\Communication</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer\Renderer.hpp">
+      <Filter>Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\update.hpp">
+      <Filter>RBX</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\security\xorstr.hpp">
+      <Filter>RBX\security</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\task_scheduler\task_scheduler.hpp">
+      <Filter>RBX\task_scheduler</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\execution\execution.hpp">
+      <Filter>RBX\execution</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\env.hpp">
+      <Filter>RBX\environment</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\hooks\hooks.hpp">
+      <Filter>RBX\environment\hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\yielding\yielding.hpp">
+      <Filter>RBX\environment\yielding</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\Helper\LuauHelper.hpp">
+      <Filter>RBX\environment\Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\Helper\Manager.hpp">
+      <Filter>RBX\environment\Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\Helper\Sha3.hpp">
+      <Filter>RBX\environment\Helper</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\bit\bit.hpp">
+      <Filter>RBX\environment\libs\bit</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\cache\cache.hpp">
+      <Filter>RBX\environment\libs\cache</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\crypt\crypt.hpp">
+      <Filter>RBX\environment\libs\crypt</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\debug\debug.hpp">
+      <Filter>RBX\environment\libs\debug</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\drawing\drawing.hpp">
+      <Filter>RBX\environment\libs\drawing</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\drawingimmediate\drawingimmediate.hpp">
+      <Filter>RBX\environment\libs\drawingimmediate</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\luastateproxy\luastateproxy.hpp">
+      <Filter>RBX\environment\libs\luastateproxy</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\filedialog\filedialog.hpp">
+      <Filter>RBX\environment\libs\filedialog</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\filesystem\filesystem.hpp">
+      <Filter>RBX\environment\libs\filesystem</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\http\http.hpp">
+      <Filter>RBX\environment\libs\http</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\input\input.hpp">
+      <Filter>RBX\environment\libs\input</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\instance\instance.hpp">
+      <Filter>RBX\environment\libs\instance</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\metatable\metatable.hpp">
+      <Filter>RBX\environment\libs\metatable</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\miscellaneous\miscellaneous.hpp">
+      <Filter>RBX\environment\libs\miscellaneous</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\oth\oth.hpp">
+      <Filter>RBX\environment\libs\oth</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\raknet\raknet.hpp">
+      <Filter>RBX\environment\libs\raknet</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\reflection\reflection.hpp">
+      <Filter>RBX\environment\libs\reflection</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\regex\regex.hpp">
+      <Filter>RBX\environment\libs\regex</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\script\script.hpp">
+      <Filter>RBX\environment\libs\script</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\signals\signals.hpp">
+      <Filter>RBX\environment\libs\signals</Filter>
+    </ClInclude>
+    <ClInclude Include="RBX\environment\libs\websocket\websocket.hpp">
+      <Filter>RBX\environment\libs\websocket</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\imgui\addons\TextEditor.h">
+      <Filter>Dependencies\imgui\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\imgui\imgui.h">
+      <Filter>Dependencies\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\imgui\imgui_internal.h">
+      <Filter>Dependencies\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\nlohmann\json.hpp">
+      <Filter>Dependencies\nlohmann</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\Zstd\include\zstd\xxhash.h">
+      <Filter>Dependencies\Zstd\include\zstd</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\Zstd\include\zstd\zstd.h">
+      <Filter>Dependencies\Zstd\include\zstd</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\Luau2\**\*.h">
+      <Filter>Dependencies\Luau2\**</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\cpr\include\cpr\*.h">
+      <Filter>Dependencies\cpr\include\cpr</Filter>
+    </ClInclude>
+    <ClInclude Include="Dependencies\curl\include\curl\*.h">
+      <Filter>Dependencies\curl\include\curl</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

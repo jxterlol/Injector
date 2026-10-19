@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "natrium\\x64\\Release\\fflags.obj",
+            "outputs": [
+                "natrium\\x64\\Release\\fflags.hpp.obj.dt.module.json",
+                "natrium\\x64\\Release\\fflags.hpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
